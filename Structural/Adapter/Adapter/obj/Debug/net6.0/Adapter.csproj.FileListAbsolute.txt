@@ -1,0 +1,15 @@
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\Adapter\Adapter\bin\Debug\net6.0\Adapter.exe
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\Adapter\Adapter\bin\Debug\net6.0\Adapter.deps.json
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\Adapter\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\Adapter\Adapter\bin\Debug\net6.0\Adapter.dll
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\Adapter\Adapter\bin\Debug\net6.0\Adapter.pdb
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\Adapter\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\Adapter\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\Adapter\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\Adapter\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\Adapter\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\Adapter\Adapter\obj\Debug\net6.0\Adapter.dll
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\Adapter\Adapter\obj\Debug\net6.0\refint\Adapter.dll
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\Adapter\Adapter\obj\Debug\net6.0\Adapter.pdb
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\Adapter\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\Adapter\Adapter\obj\Debug\net6.0\ref\Adapter.dll
