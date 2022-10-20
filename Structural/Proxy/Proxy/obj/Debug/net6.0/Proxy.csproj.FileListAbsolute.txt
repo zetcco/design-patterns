@@ -1,0 +1,15 @@
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Proxy\Proxy\bin\Debug\net6.0\Proxy.exe
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Proxy\Proxy\bin\Debug\net6.0\Proxy.deps.json
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Proxy\Proxy\bin\Debug\net6.0\Proxy.runtimeconfig.json
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Proxy\Proxy\bin\Debug\net6.0\Proxy.dll
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Proxy\Proxy\bin\Debug\net6.0\Proxy.pdb
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Proxy\Proxy\obj\Debug\net6.0\Proxy.csproj.AssemblyReference.cache
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Proxy\Proxy\obj\Debug\net6.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Proxy\Proxy\obj\Debug\net6.0\Proxy.AssemblyInfoInputs.cache
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Proxy\Proxy\obj\Debug\net6.0\Proxy.AssemblyInfo.cs
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Proxy\Proxy\obj\Debug\net6.0\Proxy.csproj.CoreCompileInputs.cache
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Proxy\Proxy\obj\Debug\net6.0\Proxy.dll
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Proxy\Proxy\obj\Debug\net6.0\refint\Proxy.dll
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Proxy\Proxy\obj\Debug\net6.0\Proxy.pdb
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Proxy\Proxy\obj\Debug\net6.0\Proxy.genruntimeconfig.cache
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Proxy\Proxy\obj\Debug\net6.0\ref\Proxy.dll

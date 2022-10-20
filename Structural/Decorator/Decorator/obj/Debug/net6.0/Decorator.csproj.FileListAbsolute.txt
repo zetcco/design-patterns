@@ -1,0 +1,15 @@
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Decorator\Decorator\obj\Debug\net6.0\Decorator.csproj.AssemblyReference.cache
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Decorator\Decorator\obj\Debug\net6.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Decorator\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfoInputs.cache
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Decorator\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfo.cs
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Decorator\Decorator\obj\Debug\net6.0\Decorator.csproj.CoreCompileInputs.cache
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Decorator\Decorator\bin\Debug\net6.0\Decorator.exe
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Decorator\Decorator\bin\Debug\net6.0\Decorator.deps.json
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Decorator\Decorator\bin\Debug\net6.0\Decorator.runtimeconfig.json
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Decorator\Decorator\bin\Debug\net6.0\Decorator.dll
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Decorator\Decorator\bin\Debug\net6.0\Decorator.pdb
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Decorator\Decorator\obj\Debug\net6.0\Decorator.dll
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Decorator\Decorator\obj\Debug\net6.0\refint\Decorator.dll
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Decorator\Decorator\obj\Debug\net6.0\Decorator.pdb
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Decorator\Decorator\obj\Debug\net6.0\Decorator.genruntimeconfig.cache
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Structural\New folder\Decorator\Decorator\obj\Debug\net6.0\ref\Decorator.dll
