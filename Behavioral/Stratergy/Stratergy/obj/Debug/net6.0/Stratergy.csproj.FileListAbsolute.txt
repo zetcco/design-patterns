@@ -1,0 +1,15 @@
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\Stratergy\Stratergy\bin\Debug\net6.0\Stratergy.exe
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\Stratergy\Stratergy\bin\Debug\net6.0\Stratergy.deps.json
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\Stratergy\Stratergy\bin\Debug\net6.0\Stratergy.runtimeconfig.json
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\Stratergy\Stratergy\bin\Debug\net6.0\Stratergy.dll
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\Stratergy\Stratergy\bin\Debug\net6.0\Stratergy.pdb
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\Stratergy\Stratergy\obj\Debug\net6.0\Stratergy.csproj.AssemblyReference.cache
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\Stratergy\Stratergy\obj\Debug\net6.0\Stratergy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\Stratergy\Stratergy\obj\Debug\net6.0\Stratergy.AssemblyInfoInputs.cache
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\Stratergy\Stratergy\obj\Debug\net6.0\Stratergy.AssemblyInfo.cs
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\Stratergy\Stratergy\obj\Debug\net6.0\Stratergy.csproj.CoreCompileInputs.cache
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\Stratergy\Stratergy\obj\Debug\net6.0\Stratergy.dll
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\Stratergy\Stratergy\obj\Debug\net6.0\refint\Stratergy.dll
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\Stratergy\Stratergy\obj\Debug\net6.0\Stratergy.pdb
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\Stratergy\Stratergy\obj\Debug\net6.0\Stratergy.genruntimeconfig.cache
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\Stratergy\Stratergy\obj\Debug\net6.0\ref\Stratergy.dll
