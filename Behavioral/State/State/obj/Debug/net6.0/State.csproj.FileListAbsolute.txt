@@ -1,0 +1,15 @@
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\State\State\bin\Debug\net6.0\State.exe
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\State\State\bin\Debug\net6.0\State.deps.json
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\State\State\bin\Debug\net6.0\State.runtimeconfig.json
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\State\State\bin\Debug\net6.0\State.dll
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\State\State\bin\Debug\net6.0\State.pdb
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\State\State\obj\Debug\net6.0\State.csproj.AssemblyReference.cache
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\State\State\obj\Debug\net6.0\State.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\State\State\obj\Debug\net6.0\State.AssemblyInfoInputs.cache
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\State\State\obj\Debug\net6.0\State.AssemblyInfo.cs
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\State\State\obj\Debug\net6.0\State.csproj.CoreCompileInputs.cache
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\State\State\obj\Debug\net6.0\State.dll
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\State\State\obj\Debug\net6.0\refint\State.dll
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\State\State\obj\Debug\net6.0\State.pdb
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\State\State\obj\Debug\net6.0\State.genruntimeconfig.cache
+E:\Work\Study\L 2\Semester 2\Rapid Application Development (CSC2213)\Notes\Additional Research\Design Patterns\Behavioral\State\State\obj\Debug\net6.0\ref\State.dll
