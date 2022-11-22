@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Work\\Study\\L 2\\Semester 2\\Rapid Application Development (CSC2213)\\Notes\\Additional Research\\Design Patterns\\Structural\\New folder\\Decorator\\Decorator\\Decorator.csproj",
+      "projectUniqueName": "E:\\Work\\Study\\L 2\\Semester 2\\Rapid Application Development (CSC2213)\\Notes\\Additional Research\\Design Patterns\\Structural\\Decorator\\Decorator\\Decorator.csproj",
       "projectName": "Decorator",
-      "projectPath": "E:\\Work\\Study\\L 2\\Semester 2\\Rapid Application Development (CSC2213)\\Notes\\Additional Research\\Design Patterns\\Structural\\New folder\\Decorator\\Decorator\\Decorator.csproj",
+      "projectPath": "E:\\Work\\Study\\L 2\\Semester 2\\Rapid Application Development (CSC2213)\\Notes\\Additional Research\\Design Patterns\\Structural\\Decorator\\Decorator\\Decorator.csproj",
       "packagesPath": "C:\\Users\\indra\\.nuget\\packages\\",
-      "outputPath": "E:\\Work\\Study\\L 2\\Semester 2\\Rapid Application Development (CSC2213)\\Notes\\Additional Research\\Design Patterns\\Structural\\New folder\\Decorator\\Decorator\\obj\\",
+      "outputPath": "E:\\Work\\Study\\L 2\\Semester 2\\Rapid Application Development (CSC2213)\\Notes\\Additional Research\\Design Patterns\\Structural\\Decorator\\Decorator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\indra\\AppData\\Roaming\\NuGet\\NuGet.Config",

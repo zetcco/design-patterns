@@ -6,11 +6,32 @@ using System.Threading.Tasks;
 
 namespace Factory
 {
-    internal class PowerBankFactory
+    internal class PowerbankFactory
     {
-        public PowerBank getPowerBank(Display display, Battery battery)
+        public Powerbank getPowerbank(String display, String battery)
         {
-            return new PowerBank(display, battery);
+            Powerbank bank = new Powerbank();
+            switch (display)
+            {
+                case "Samsung":
+                    bank.setDisplay(new SamsungDisplay());
+                    break;
+                case "Oneplus":
+                    bank.setDisplay(new OneplusDisplay());
+                    break;
+            }
+
+            switch (battery)
+            {
+                case "Huawei":
+                    bank.setBattery(new HuaweiBattery());
+                    break;
+                case "Apple":
+                    bank.setBattery(new AppleBattery());
+                    break;
+            }
+
+            return bank;
         }
     }
 }

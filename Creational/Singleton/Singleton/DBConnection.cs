@@ -8,7 +8,7 @@ namespace Singleton
 {
     internal class DBConnection
     {
-        private static DBConnection? conn = null;
+        private static DBConnection conn = null;
         private DBConnection()
         {
 

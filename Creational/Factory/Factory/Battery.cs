@@ -8,6 +8,6 @@ namespace Factory
 {
     internal interface Battery
     {
-        public string getCharge();
+        int getPercentage();
     }
 }

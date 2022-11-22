@@ -8,6 +8,6 @@ namespace Factory
 {
     internal interface Display
     {
-        void displayPercentage(string percentage);
+        void displayPercentage(int value);
     }
 }

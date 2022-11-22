@@ -4,14 +4,15 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        PowerBankFactory factory = new PowerBankFactory();
+        PowerbankFactory factory = new PowerbankFactory();
 
-        PowerBank powerbank1 = factory.getPowerBank(new AppleDisplay(), new SamsungBattery());
-        PowerBank powerbank2 = factory.getPowerBank(new HuaweiDisplay(), new SamsungBattery());
-        PowerBank powerbank3 = factory.getPowerBank(new AppleDisplay(), new SonyBattery());
+        Powerbank p1 = factory.getPowerbank("Samsung", "Huawei");
+        p1.pressButton();
 
-        powerbank1.getPercentage();
-        powerbank2.getPercentage();
-        powerbank3.getPercentage();
+        Powerbank p2 = factory.getPowerbank("Oneplus", "Apple");
+        p2.pressButton();
+
+        Powerbank p3 = factory.getPowerbank("Samsung", "Apple");
+        p3.pressButton();
     }
 }

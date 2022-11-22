@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Factory
 {
-    internal class SonyBattery : Battery
+    internal class AppleBattery : Battery
     {
-        public string getCharge()
+        public int getPercentage()
         {
-            return "20 (Sony)";
+            return 21;
         }
     }
 }

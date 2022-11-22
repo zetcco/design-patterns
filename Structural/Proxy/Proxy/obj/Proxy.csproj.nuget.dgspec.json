@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Work\\Study\\L 2\\Semester 2\\Rapid Application Development (CSC2213)\\Notes\\Additional Research\\Design Patterns\\Structural\\New folder\\Proxy\\Proxy\\Proxy.csproj": {}
+    "E:\\Work\\Study\\L 2\\Semester 2\\Rapid Application Development (CSC2213)\\Notes\\Additional Research\\Design Patterns\\Structural\\Proxy\\Proxy\\Proxy.csproj": {}
   },
   "projects": {
-    "E:\\Work\\Study\\L 2\\Semester 2\\Rapid Application Development (CSC2213)\\Notes\\Additional Research\\Design Patterns\\Structural\\New folder\\Proxy\\Proxy\\Proxy.csproj": {
+    "E:\\Work\\Study\\L 2\\Semester 2\\Rapid Application Development (CSC2213)\\Notes\\Additional Research\\Design Patterns\\Structural\\Proxy\\Proxy\\Proxy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Work\\Study\\L 2\\Semester 2\\Rapid Application Development (CSC2213)\\Notes\\Additional Research\\Design Patterns\\Structural\\New folder\\Proxy\\Proxy\\Proxy.csproj",
+        "projectUniqueName": "E:\\Work\\Study\\L 2\\Semester 2\\Rapid Application Development (CSC2213)\\Notes\\Additional Research\\Design Patterns\\Structural\\Proxy\\Proxy\\Proxy.csproj",
         "projectName": "Proxy",
-        "projectPath": "E:\\Work\\Study\\L 2\\Semester 2\\Rapid Application Development (CSC2213)\\Notes\\Additional Research\\Design Patterns\\Structural\\New folder\\Proxy\\Proxy\\Proxy.csproj",
+        "projectPath": "E:\\Work\\Study\\L 2\\Semester 2\\Rapid Application Development (CSC2213)\\Notes\\Additional Research\\Design Patterns\\Structural\\Proxy\\Proxy\\Proxy.csproj",
         "packagesPath": "C:\\Users\\indra\\.nuget\\packages\\",
-        "outputPath": "E:\\Work\\Study\\L 2\\Semester 2\\Rapid Application Development (CSC2213)\\Notes\\Additional Research\\Design Patterns\\Structural\\New folder\\Proxy\\Proxy\\obj\\",
+        "outputPath": "E:\\Work\\Study\\L 2\\Semester 2\\Rapid Application Development (CSC2213)\\Notes\\Additional Research\\Design Patterns\\Structural\\Proxy\\Proxy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\indra\\AppData\\Roaming\\NuGet\\NuGet.Config",

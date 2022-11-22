@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mAN8KyiLtnNPCk6WRRspS+jlOSBhN/nwJNEhkzFqLoXDbjbbBkrSFpbV2FegC6dmsTN4I5v8P+1/eQZQ6V+e2g==",
+  "dgSpecHash": "Js8MSYL0LMoUsiAQWpcdiwe9GCK35lRQHln2PLgpaaYumjdcHj+2DhuvIqyHw9AjDf9jIic/lID9F54JiMjgmA==",
   "success": true,
-  "projectFilePath": "E:\\Work\\Study\\L 2\\Semester 2\\Rapid Application Development (CSC2213)\\Notes\\Additional Research\\Design Patterns\\Behavioral\\Creational\\Singleton\\Singleton\\Singleton.csproj",
+  "projectFilePath": "E:\\Work\\Study\\L 2\\Semester 2\\Rapid Application Development (CSC2213)\\Notes\\Additional Research\\Design Patterns\\Creational\\Singleton\\Singleton\\Singleton.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
